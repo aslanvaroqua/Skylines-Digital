@@ -1,0 +1,202 @@
+			
+= V1.1 - 08.14.2017 =
+
+		ADDED: 3 New Home Page
+		ADDED: LightBox
+		UPDATED: UiKit version
+		UPDATED: Sidebar Menu Scroll
+		
+	MODIFIIED FILES
+		home-app.html
+		home-portfolio.html
+		home-photography.html
+		assets\css\theme.css
+		assets\js\theme.js
+		assets\css\uikit.min.css
+		assets\js\uikit.min.js
+		
+= V1.0.5 - 06.15.2017 =
+
+		ADDED: Travel Home Page
+		ADDED: Login Form
+		UPDATED: UiKit version
+		UPDATED: Twitter Fetcher JS
+		FIXED: Coming Soon Countdown
+		FIXED: Blog Pagination
+		
+	MODIFIIED FILES
+		home-travel.html
+		pages-coming-soon.html
+		assets\css\theme.css
+		assets\js\twitterfetcher.min.js
+		assets\js\theme.js
+		assets\css\uikit.min.css
+		assets\js\uikit.min.js
+		
+= V1.0.4 - 05.29.2017 =
+
+		ADDED: 6 New Demos
+		UPDATED: Parallax and UiKit version
+		REMOVED: Old Parallax JS and Now we followed UiKit Parallax
+		
+	MODIFIIED FILES
+		home-band.html
+		home-resume.html
+		home-photography.html
+		home-church.html
+		home-finance.html
+		home-restaurant.html
+		assets\css\theme.css
+		assets\js\theme.js
+		assets\css\uikit.min.css
+		assets\js\uikit.min.js
+
+= V1.0.3 - 05.01.2017 =
+
+		ADDED: 4 New Demos
+		FIXED: Shop Single Responsive
+		IMPROVED: Some Styling and Responsive
+		
+	MODIFIIED FILES
+		home-architecture.html
+		home-business.html
+		home-construction.html
+		home-magazine.html
+		assets\css\theme.css
+		assets\js\theme.js
+		shop-cart.html
+		shop-single.html
+		
+= V1.0.2 - 04.19.2017 =
+
+		ADDED: FullScreen Tranistion Chooser
+		ADDED: Portfolio 4 Hover Styles
+		
+	MODIFIIED FILES
+		assets\css\theme.css
+		home-fullscreen.html
+		portfolio-style-1.html
+		portfolio-style-2.html
+		portfolio-style-3.html
+		portfolio-style-4.html
+		
+= V1.0.1 - 04.18.2017 =
+
+		ADDED: Parallax Portfolio
+		ADDED: Promo Portfolio
+		FIXED: Service Image Goes down bug
+		FIXED: Some Responsive Layouts
+		FIXED: Single Video now has Play Button
+		
+	MODIFIIED FILES
+		assets\css\responsive.css
+		assets\css\theme.css
+		assets\demo\portfolio\parallax\portfolio-1.jpg
+		assets\demo\portfolio\parallax\portfolio-2.jpg
+		assets\demo\portfolio\parallax\portfolio-3.jpg
+		assets\demo\portfolio\parallax\portfolio-4.jpg
+		assets\demo\portfolio\promo\portfolio-1.jpg
+		assets\demo\portfolio\promo\portfolio-2.jpg
+		assets\demo\portfolio\promo\portfolio-3.jpg
+		assets\demo\portfolio\promo\portfolio-4.jpg
+		assets\demo\portfolio\promo\portfolio-5.jpg
+		assets\js\theme.js
+		blog-full.html
+		blog-grid-2-sidebar.html
+		blog-grid-2.html
+		blog-grid-3.html
+		blog-left-sidebar.html
+		blog-metro-3-column.html
+		blog-metro.html
+		blog-minimal.html
+		blog-right-sidebar.html
+		elements-accordion.html
+		elements-animation.html
+		elements-blockquote.html
+		elements-box.html
+		elements-button.html
+		elements-call-action.html
+		elements-carousel.html
+		elements-chart-circle.html
+		elements-clients.html
+		elements-columns.html
+		elements-contact-form.html
+		elements-counterup.html
+		elements-dropcaps.html
+		elements-flipbox.html
+		elements-google-map.html
+		elements-grid.html
+		elements-header-footer.html
+		elements-heading.html
+		elements-highlight.html
+		elements-infobox.html
+		elements-list.html
+		elements-message-box.html
+		elements-open-jobs.html
+		elements-pricing-table.html
+		elements-process.html
+		elements-progress.html
+		elements-social.html
+		elements-table.html
+		elements-tabs.html
+		elements-team.html
+		elements-testimonial.html
+		elements-timeline.html
+		home-agency.html
+		home-blog-classic.html
+		home-blog-metro.html
+		home-career.html
+		home-classic.html
+		home-corporate.html
+		home-freelancer.html
+		home-fullscreen.html
+		home-landing.html
+		home-minimal.html
+		home-onepage.html
+		home-shop.html
+		home-splitscreen.html
+		home-startup.html
+		home-studio.html
+		home-video.html
+		index.html
+		pages-404.html
+		pages-about.html
+		pages-clients.html
+		pages-coming-soon.html
+		pages-contact.html
+		pages-faq.html
+		pages-services.html
+		pages-team.html
+		portfolio-grid-2.html
+		portfolio-grid-3.html
+		portfolio-grid-4.html
+		portfolio-masonry-2.html
+		portfolio-masonry-3.html
+		portfolio-masonry-4.html
+		portfolio-metro.html
+		portfolio-parallax.html
+		portfolio-promo.html
+		portfolio-single-1.html
+		portfolio-single-2.html
+		portfolio-single-3.html
+		portfolio-single-4.html
+		portfolio-single-5.html
+		portfolio-single-6.html
+		portfolio-single-7.html
+		portfolio-single-8.html
+		shop-cart.html
+		shop-checkout.html
+		shop-single.html
+		shop.html
+		single-audio.html
+		single-gallery.html
+		single-link.html
+		single-quote.html
+		single-standard.html
+		single-video.html
+		placehold\1920x1139.jpg
+		placehold\500x300.jpg
+
+  
+= V1.0.0 - 04.14.2017 =
+		NEW : First Release
